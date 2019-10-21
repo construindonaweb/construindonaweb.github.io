@@ -1,5 +1,5 @@
-# Construindo na Web
+# Aprenda Webflow
 
-Aprendendo a criar uma web melhor.
+Entenda como agilizar o desenvolvimento de sites e interfaces SEM CÓDIGO.
 
 © ‘19.
